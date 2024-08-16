@@ -47,5 +47,5 @@ Claim Amount by Age and Marital Status:
 Hypothesis: Analyze the effect of marital status on the relationship between age and claim amount.
 Result: Some significant interaction effects observed.
 
-Conclusion
+## Conclusion
 This analysis reveals key insights into medical malpractice claims, including significant differences in claim amounts based on private attorney representation, variations in claim severity across specialties, and gender-based differences in claim severity. The relationship between claim amount and age, as well as the effects of insurance type and marital status, were also explored.
